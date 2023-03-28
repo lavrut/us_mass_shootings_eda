@@ -1,4 +1,4 @@
-## us_massshootings_eda
+## us_mass_shootings_eda
 ### Additional context for EDA
 
 ###Temporal Trends:
