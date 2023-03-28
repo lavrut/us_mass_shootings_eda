@@ -1,7 +1,7 @@
 ## us_mass_shootings_eda
 ### Additional context for EDA
 
-###Temporal Trends:
+### Temporal Trends:
 There has been an increase in the number of mass shootings over time, especially in the last two decades. This indicates that more resources should be allocated to prevent and respond to these incidents. There might be seasonal patterns, with more mass shootings occurring during specific months or holidays. Identifying these patterns can help law enforcement prepare and allocate resources more effectively during high-risk periods.
 
 ### Geographical Patterns:
